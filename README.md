@@ -30,10 +30,8 @@ Go to the Debug tab.
 
 In the Command line arguments field, enter the required parameters, for example:
 
-arduino
-Kopiuj
-Edytuj
 "TestSource" "TestReplica" 10 "log.txt"
+
 Make sure the folders TestSource and TestReplica exist in the root directory of the project.
 
 Press Ctrl + F5 to run the project without debugging.
