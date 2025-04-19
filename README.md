@@ -9,3 +9,9 @@ A simple one-way folder synchronization tool written in C#. It copies all files 
 - Detects changes using byte-level comparison
 - Syncs once and exits (default mode)
 - Logs all operations to both console and a log file
+
+
+## 🚀 How to Run
+
+```bash
+dotnet run -- "sourcePath" "replicaPath" intervalInSeconds "logFilePath"
