@@ -17,7 +17,7 @@ A simple one-way folder synchronization tool written in C#. It copies all files 
 
 ```bash
 dotnet run -- "sourcePath" "replicaPath" intervalInSeconds "logFilePath"
-
+```
 
 ### ✅ Option 2 – Running from Visual Studio
 You can also run the application directly from Visual Studio. To do this:
