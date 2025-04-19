@@ -1,0 +1,28 @@
+﻿
+# Build i tymczasowe pliki
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+
+# VS Code / Rider
+.vscode/
+.idea/
+
+# Pliki systemowe
+*.log
+*.tmp
+*.bak
+*.db
+*.DS_Store
+Thumbs.db
+
+# Inne
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ncb
+*.ilk
+*.log
